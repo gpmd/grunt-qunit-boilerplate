@@ -4,4 +4,3 @@ node_modules
 
 # Files
 *.sublime-
-tests/lib/*
