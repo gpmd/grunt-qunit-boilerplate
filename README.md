@@ -1,4 +1,4 @@
-# grunt-qunit-boilerplate v0.0.1
+# grunt-qunit-boilerplate v0.0.2
 
 > A simple Grunt, QUnit test-suite boilerplate.
 
